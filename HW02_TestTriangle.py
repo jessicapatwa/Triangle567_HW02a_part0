@@ -1,6 +1,6 @@
 import unittest
 
-from Triangle import classifyTriangle
+from HW02_Triangle import classifyTriangle
 
 class TestTriangles(unittest.TestCase):
     
